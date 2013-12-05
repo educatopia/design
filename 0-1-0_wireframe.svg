@@ -31,9 +31,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2929.1608"
-     inkscape:cy="1919.6852"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="1876.0563"
+     inkscape:cy="-809.81991"
      inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -129,8 +129,8 @@
     </rdf:RDF>
   </metadata>
   <rect
-     y="-1200"
-     x="3440"
+     y="-1120"
+     x="4600"
      height="200"
      width="840"
      id="rect5984"
@@ -140,8 +140,8 @@
      id="rect5883"
      width="2080"
      height="200"
-     x="1080"
-     y="-1200" />
+     x="2240"
+     y="-1120" />
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect10099"
@@ -286,11 +286,11 @@
      style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text5418"
-     y="-160"
-     x="560"><tspan
+     y="-80"
+     x="480"><tspan
        id="tspan5420"
-       y="-160"
-       x="560">/</tspan></text>
+       y="-80"
+       x="480">/</tspan></text>
   <rect
      style="fill:#e6e6e6;fill-opacity:1;stroke:none"
      id="rect5422"
@@ -328,10 +328,10 @@
      style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text5488"
-     y="-160"
+     y="-80"
      x="1680"><tspan
        id="tspan5490"
-       y="-160"
+       y="-80"
        x="1680">/&lt;username&gt;</tspan></text>
   <g
      id="g8279"
@@ -369,16 +369,16 @@
      style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text10131"
-     y="-160"
-     x="3080"><tspan
+     y="-80"
+     x="3040"><tspan
        id="tspan10133"
-       y="-160"
-       x="3080">/exercises</tspan></text>
+       y="-80"
+       x="3040">/exercises</tspan></text>
   <rect
      style="fill:#333333;fill-opacity:1;stroke:none"
      id="rect13235"
-     y="-1200"
-     x="1160"
+     y="-1120"
+     x="2320"
      height="90"
      width="1920" />
   <text
@@ -386,78 +386,45 @@
      style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text13237"
-     y="-1141.0352"
-     x="1193.3333"><tspan
+     y="-1061.0353"
+     x="2353.3333"><tspan
        style="font-size:50px;fill:#ffffff"
        id="tspan13239"
-       y="-1141.0352"
-       x="1193.3333">educatopia</tspan></text>
+       y="-1061.0353"
+       x="2353.3333">educatopia</tspan></text>
   <text
      sodipodi:linespacing="125%"
      style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text13241"
-     y="-1143.0208"
-     x="2341.3171"><tspan
+     y="-1062.0001"
+     x="2681.3171"><tspan
        style="font-size:33.33333206px;fill:#ffffff"
        id="tspan13243"
-       y="-1143.0208"
-       x="2341.3171">exercises</tspan></text>
-  <text
-     sodipodi:linespacing="125%"
-     style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-     xml:space="preserve"
-     id="text13245"
-     y="-1142.5896"
-     x="2200.811"><tspan
-       style="font-size:33.33333206px;fill:#ffffff"
-       id="tspan13247"
-       y="-1142.5896"
-       x="2200.811">lessons</tspan></text>
-  <text
-     sodipodi:linespacing="125%"
-     style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-     xml:space="preserve"
-     id="text13249"
-     y="-1146.0105"
-     x="2671.5481"><tspan
-       style="font-size:33.33333206px;fill:#ffffff"
-       id="tspan13251"
-       y="-1146.0105"
-       x="2671.5481">apps</tspan></text>
+       y="-1062.0001"
+       x="2681.3171">exercises</tspan></text>
   <text
      sodipodi:linespacing="125%"
      style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text13253"
-     y="-1145.7795"
-     x="2856"><tspan
+     y="-1065.7797"
+     x="4016"><tspan
        style="font-size:33.33333206px;fill:#ffffff"
        id="tspan13255"
-       y="-1145.7795"
-       x="2856">login</tspan></text>
+       y="-1065.7797"
+       x="4016">login</tspan></text>
   <text
      sodipodi:linespacing="125%"
      style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      xml:space="preserve"
      id="text13257"
-     y="-1146.2434"
-     x="2952"><tspan
+     y="-1066.2435"
+     x="4112"><tspan
        style="font-size:33.33333206px;fill:#ffffff"
        id="tspan13259"
-       y="-1146.2434"
-       x="2952">signup</tspan></text>
-  <text
-     sodipodi:linespacing="125%"
-     style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-     xml:space="preserve"
-     id="text13261"
-     y="-1145.7795"
-     x="2514.1475"><tspan
-       style="font-size:33.33333206px;fill:#ffffff"
-       id="tspan13263"
-       y="-1145.7795"
-       x="2514.1475">glossary</tspan></text>
+       y="-1066.2435"
+       x="4112">signup</tspan></text>
   <rect
      style="fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect5189"
@@ -494,29 +461,11 @@
      height="28.303534"
      x="2918.6567"
      y="132.61697" />
-  <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     id="rect5205"
-     width="400"
-     height="50"
-     x="1502.1201"
-     y="-1180" />
   <path
      style="fill:#ffffff;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 2804.8566,-1179 0,48"
+     d="m 3964.8566,-1099.0001 0,48"
      id="path5209"
      inkscape:connector-curvature="0" />
-  <text
-     x="1515.4807"
-     y="-1142.5896"
-     id="text5979"
-     xml:space="preserve"
-     style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-     sodipodi:linespacing="125%"><tspan
-       x="1515.4807"
-       y="-1142.5896"
-       id="tspan5981"
-       style="font-size:33.33333206px;fill:#4d4d4d">search</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text5989"
@@ -594,29 +543,29 @@
        style="font-size:36px;text-align:center;text-anchor:middle">Table loads more items when you scroll to the bottom of it</flowPara></flowRoot>  <rect
      width="600"
      height="90"
-     x="3560"
-     y="-1200"
+     x="4720"
+     y="-1120"
      id="rect4437"
      style="fill:#333333;fill-opacity:1;stroke:none" />
   <text
-     x="3916"
-     y="-1146"
+     x="5076"
+     y="-1066.0001"
      id="text4459"
      xml:space="preserve"
      style="font-size:16.66666603px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      sodipodi:linespacing="125%"><tspan
-       x="3916"
-       y="-1146"
+       x="5076"
+       y="-1066.0001"
        id="tspan4461"
        style="font-size:33.33333206px;fill:#ffffff">&lt;username&gt;</tspan></text>
   <path
      inkscape:connector-curvature="0"
      id="path4469"
-     d="m 3884.8566,-1179 0,48"
+     d="m 5044.8566,-1099.0001 0,48"
      style="fill:#ffffff;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
      style="fill:none;stroke:#006fff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutL)"
-     d="m 3080,-1155 480,0"
+     d="m 4240,-1075 480,0"
      id="path4475"
      inkscape:connector-type="polyline"
      inkscape:connector-curvature="0"
@@ -824,12 +773,513 @@
      style="fill:#333333;fill-opacity:1;stroke:none" />
   <text
      x="4320"
-     y="-160"
+     y="-80"
      id="text5948"
      xml:space="preserve"
      style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
      sodipodi:linespacing="125%"><tspan
        x="4320"
-       y="-160"
+       y="-80"
        id="tspan5950">/exercise/&lt;id&gt;</tspan></text>
+  <rect
+     width="1280"
+     height="1600"
+     x="5440"
+     y="-3.8146973e-06"
+     id="rect3120"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     width="960"
+     height="1600"
+     x="5600"
+     y="-3.8146973e-06"
+     id="rect3122"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+  <rect
+     width="960"
+     height="40"
+     x="5600"
+     y="-3.8146973e-06"
+     id="rect3124"
+     style="fill:#333333;fill-opacity:1;stroke:none" />
+  <text
+     x="5620"
+     y="26.703106"
+     id="text3126"
+     xml:space="preserve"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     sodipodi:linespacing="125%"><tspan
+       x="5620"
+       y="26.703106"
+       id="tspan3128"
+       style="font-size:24px;fill:#ffffff">educatopia</tspan></text>
+  <rect
+     width="960"
+     height="239.99994"
+     x="5600"
+     y="1360"
+     id="rect3130"
+     style="fill:#333333;fill-opacity:1;stroke:none" />
+  <text
+     x="5840"
+     y="-80"
+     id="text3132"
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     sodipodi:linespacing="125%"><tspan
+       x="5840"
+       y="-80"
+       id="tspan3134">/settings</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path3150"
+     d="m 5879.9999,140 640,0"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3164"
+     y="172.51263"
+     x="5664.0415"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="172.51263"
+       x="5664.0415"
+       id="tspan3166"
+       sodipodi:role="line">Notifications</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3168"
+     y="208.02736"
+     x="5665.4561"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="208.02736"
+       x="5665.4561"
+       id="tspan3170"
+       sodipodi:role="line">Account</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="5880"
+     y="120"
+     id="text3172"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3174"
+       x="5880"
+       y="120">Public</tspan></text>
+  <rect
+     style="fill:#808080;fill-opacity:1;stroke:none"
+     id="rect3184"
+     width="180.00002"
+     height="39.999989"
+     x="5640"
+     y="100"
+     rx="5"
+     ry="5" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3178"
+     y="124.24264"
+     x="5667.2725"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       style="fill:#ffffff"
+       y="124.24264"
+       x="5667.2725"
+       id="tspan3180"
+       sodipodi:role="line">Profile</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3186"
+     width="380.00003"
+     height="39.999989"
+     x="5880"
+     y="200.00002"
+     rx="5"
+     ry="5" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3188"
+     y="180"
+     x="5880"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="180"
+       x="5880"
+       id="tspan3190"
+       sodipodi:role="line"
+       style="font-size:16px">Name</tspan></text>
+  <rect
+     ry="5"
+     rx="5"
+     y="300"
+     x="5880"
+     height="39.999989"
+     width="380.00003"
+     id="rect3192"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="5880"
+     y="280"
+     id="text3194"
+     sodipodi:linespacing="125%"><tspan
+       style="font-size:16px"
+       sodipodi:role="line"
+       id="tspan3196"
+       x="5880"
+       y="280">Email</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3198"
+     width="380.00003"
+     height="39.999989"
+     x="5880"
+     y="400"
+     rx="5"
+     ry="5" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3200"
+     y="380"
+     x="5880"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="380"
+       x="5880"
+       id="tspan3202"
+       sodipodi:role="line"
+       style="font-size:16px">URL</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 5879.9999,580 640,0"
+     id="path3204"
+     inkscape:connector-curvature="0" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3206"
+     y="560"
+     x="5880"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="560"
+       x="5880"
+       id="tspan3208"
+       sodipodi:role="line">Private</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3210"
+     y="1920"
+     x="0"
+     height="1600"
+     width="1280" />
+  <rect
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+     id="rect3212"
+     y="1940"
+     x="160"
+     height="1600"
+     width="960" />
+  <rect
+     style="fill:#333333;fill-opacity:1;stroke:none"
+     id="rect3214"
+     y="1920"
+     x="160"
+     height="40"
+     width="960" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"
+     id="text3216"
+     y="1946.7031"
+     x="180"><tspan
+       style="font-size:24px;fill:#ffffff"
+       id="tspan3218"
+       y="1946.7031"
+       x="180">educatopia</tspan></text>
+  <rect
+     style="fill:#333333;fill-opacity:1;stroke:none"
+     id="rect3220"
+     y="3280"
+     x="160"
+     height="239.99994"
+     width="960" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"
+     id="text3222"
+     y="1840"
+     x="480"><tspan
+       id="tspan3224"
+       y="1840"
+       x="480">/login</tspan></text>
+  <rect
+     ry="5"
+     rx="5"
+     y="2040"
+     x="340"
+     height="440"
+     width="600"
+     id="rect3258"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 360,2100 560,0"
+     id="path3270"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="380"
+     y="2080"
+     id="text3272"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3274"
+       x="380"
+       y="2080">Login</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+     id="rect3276"
+     width="520"
+     height="50"
+     x="380"
+     y="2160"
+     rx="5"
+     ry="5" />
+  <rect
+     ry="5"
+     rx="5"
+     y="2280"
+     x="380"
+     height="50"
+     width="520"
+     id="rect4052"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="380"
+     y="2140"
+     id="text4054"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4056"
+       x="380"
+       y="2140">Username/Email</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4058"
+     y="2260"
+     x="380"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="2260"
+       x="380"
+       id="tspan4060"
+       sodipodi:role="line">Password</tspan></text>
+  <rect
+     style="fill:#999999;fill-opacity:1;stroke:none"
+     id="rect4062"
+     width="220"
+     height="60.000004"
+     x="530"
+     y="2380"
+     rx="5"
+     ry="5" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="607.39697"
+     y="2416.7017"
+     id="text4064"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4066"
+       x="607.39697"
+       y="2416.7017"
+       style="font-size:18px;font-weight:normal;fill:#ffffff;-inkscape-font-specification:Sans">Submit</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#057bff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="470"
+     y="2260"
+     id="text4068"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4070"
+       x="470"
+       y="2260"
+       style="font-size:12px;fill:#057bff;fill-opacity:1">forgot password</tspan></text>
+  <rect
+     width="1280"
+     height="1600"
+     x="1360"
+     y="1920"
+     id="rect4072"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     width="960"
+     height="1600"
+     x="1520"
+     y="1940"
+     id="rect4074"
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+  <rect
+     width="960"
+     height="40"
+     x="1520"
+     y="1920"
+     id="rect4076"
+     style="fill:#333333;fill-opacity:1;stroke:none" />
+  <text
+     x="1540"
+     y="1946.7031"
+     id="text4078"
+     xml:space="preserve"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     sodipodi:linespacing="125%"><tspan
+       x="1540"
+       y="1946.7031"
+       id="tspan4080"
+       style="font-size:24px;fill:#ffffff">educatopia</tspan></text>
+  <rect
+     width="960"
+     height="239.99994"
+     x="1520"
+     y="3280"
+     id="rect4082"
+     style="fill:#333333;fill-opacity:1;stroke:none" />
+  <text
+     x="1800"
+     y="1840"
+     id="text4084"
+     xml:space="preserve"
+     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     sodipodi:linespacing="125%"><tspan
+       x="1800"
+       y="1840"
+       id="tspan4086">/signup</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4088"
+     width="600"
+     height="559.99994"
+     x="1700"
+     y="2040"
+     rx="5"
+     ry="5" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4090"
+     d="m 1720,2100 560,0"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4092"
+     y="2080"
+     x="1740"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="2080"
+       x="1740"
+       id="tspan4094"
+       sodipodi:role="line">Signup</tspan></text>
+  <rect
+     ry="5"
+     rx="5"
+     y="2160"
+     x="1740"
+     height="50"
+     width="520"
+     id="rect4096"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+     id="rect4098"
+     width="520"
+     height="50"
+     x="1740"
+     y="2400"
+     rx="5"
+     ry="5" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4100"
+     y="2140"
+     x="1740"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       y="2140"
+       x="1740"
+       id="tspan4102"
+       sodipodi:role="line">Username</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="1740"
+     y="2380"
+     id="text4104"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4106"
+       x="1740"
+       y="2380">Password</tspan></text>
+  <rect
+     ry="5"
+     rx="5"
+     y="2500"
+     x="1890"
+     height="60.000004"
+     width="220"
+     id="rect4108"
+     style="fill:#999999;fill-opacity:1;stroke:none" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4110"
+     y="2536.7017"
+     x="1930.7422"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       style="font-size:18px;font-weight:normal;fill:#ffffff;-inkscape-font-specification:Sans"
+       y="2536.7017"
+       x="1930.7422"
+       id="tspan4112"
+       sodipodi:role="line">Create Account</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text4114"
+     y="2380"
+     x="1830"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#057bff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"><tspan
+       style="font-size:12px;fill:#057bff;fill-opacity:1"
+       y="2380"
+       x="1830"
+       id="tspan4116"
+       sodipodi:role="line">forgot password</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+     id="rect4118"
+     width="520"
+     height="50"
+     x="1740"
+     y="2280"
+     rx="5"
+     ry="5" />
+  <text
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="1740"
+     y="2260"
+     id="text4120"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4122"
+       x="1740"
+       y="2260">Email</tspan></text>
 </svg>
