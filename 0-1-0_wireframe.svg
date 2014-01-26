@@ -15,7 +15,7 @@
    height="1600"
    id="svg2"
    inkscape:version="0.48.4 r"
-   sodipodi:docname="1_0_0-wireframe.svg">
+   sodipodi:docname="0-1-0_wireframe.svg">
   <sodipodi:namedview
      pagecolor="#969696"
      bordercolor="#666666"
@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1152"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
      id="namedview1439"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="1876.0563"
-     inkscape:cy="-809.81991"
-     inkscape:window-x="1280"
+     inkscape:zoom="0.125"
+     inkscape:cx="2473.9033"
+     inkscape:cy="-528.64242"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
@@ -1124,7 +1124,7 @@
      style="fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
      width="960"
-     height="1600"
+     height="1580"
      x="1520"
      y="1940"
      id="rect4074"
@@ -1282,4 +1282,75 @@
        id="tspan4122"
        x="1740"
        y="2260">Email</tspan></text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3190"
+     y="1920"
+     x="2720"
+     height="1600"
+     width="1280" />
+  <rect
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none"
+     id="rect3193"
+     y="1920"
+     x="2880"
+     height="1600"
+     width="960" />
+  <rect
+     style="fill:#333333;fill-opacity:1;stroke:none"
+     id="rect3195"
+     y="1920"
+     x="2880"
+     height="40"
+     width="960" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"
+     id="text3197"
+     y="1946.7031"
+     x="2900"><tspan
+       style="font-size:24px;fill:#ffffff"
+       id="tspan3199"
+       y="1946.7031"
+       x="2900">educatopia</tspan></text>
+  <rect
+     style="fill:#333333;fill-opacity:1;stroke:none"
+     id="rect3201"
+     y="3240"
+     x="2880"
+     height="239.99994"
+     width="960" />
+  <text
+     sodipodi:linespacing="125%"
+     style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     xml:space="preserve"
+     id="text3203"
+     y="1840"
+     x="3060"><tspan
+       id="tspan3205"
+       y="1840"
+       x="3060">/verification</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="3200"
+     y="2080"
+     id="text3243"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3245"
+       x="3200"
+       y="2080">Thanks for signing up</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+     x="3200"
+     y="2160"
+     id="text3247"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3249"
+       x="3200"
+       y="2160">Go check out exerises</tspan></text>
 </svg>
